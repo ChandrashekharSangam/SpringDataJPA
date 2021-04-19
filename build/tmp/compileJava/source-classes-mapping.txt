@@ -1,0 +1,10 @@
+com/learning/SpringDataJPA/Controller/TestController.java
+ com.learning.SpringDataJPA.Controller.TestController
+com/learning/SpringDataJPA/SpringDataJpaApplication.java
+ com.learning.SpringDataJPA.SpringDataJpaApplication
+com/learning/SpringDataJPA/Repository/EmployeeRepository.java
+ com.learning.SpringDataJPA.Repository.EmployeeRepository
+com/learning/SpringDataJPA/Entity/Employee.java
+ com.learning.SpringDataJPA.Entity.Employee
+com/learning/SpringDataJPA/service/TestService.java
+ com.learning.SpringDataJPA.service.TestService
